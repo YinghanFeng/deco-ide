@@ -28,7 +28,7 @@
     "raven-js": "^2.2.0",
     "react": "15.2.0",
     "react-addons-css-transition-group": "15.2.0",
-    "react-addons-linked-state-mixin": "15.2.0",
+    "react-addons-linked-state-mixin": "15.6.2",
     "react-addons-update": "^15.2.0",
     "react-colorpicker": "dabbott/react-colorpicker#opacity-slider-package",
     "react-dnd": "^2.1.4",
