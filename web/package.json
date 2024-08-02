@@ -43,7 +43,7 @@
     "react-router-redux": "^3.0.0",
     "react-styles-provider": "^0.3.0",
     "react-toggle-button": "^2.1.0",
-    "react-virtualized": "7.12.1",
+    "react-virtualized": "7.24.3",
     "react-workspace": "^0.4.1",
     "redux": "^3.3.1",
     "redux-batched-subscribe": "dabbott/redux-batched-subscribe#batchActions-built",
