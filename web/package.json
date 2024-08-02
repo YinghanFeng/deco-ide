@@ -9,7 +9,7 @@
     "babel-polyfill": "^6.5.0",
     "body-parser": "^1.13.3",
     "codemirror": "dabbott/CodeMirror#better-jsx-es6",
-    "css-loader": "^0.9.1",
+    "css-loader": "^0.28.11",
     "esprima": "^2.7.2",
     "fast-memoize": "^2.0.2",
     "file-loader": "^0.8.5",
