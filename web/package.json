@@ -51,7 +51,7 @@
     "reselect": "^2.5.3",
     "semver": "^5.1.0",
     "sklad": "^4.1.1",
-    "style-loader": "^0.8.3",
+    "style-loader": "^0.23.1",
     "url-loader": "^0.5.7",
     "uuid": "^2.0.1",
     "webpack": "^1.12.2",
