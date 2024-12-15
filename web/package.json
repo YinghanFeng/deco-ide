@@ -55,7 +55,7 @@
     "url-loader": "^0.5.7",
     "uuid": "^2.0.1",
     "webpack": "^1.12.2",
-    "webpack-dev-server": "^1.11.0",
+    "webpack-dev-server": "^5.2.0",
     "yops": "0.1.0"
   },
   "homepage": "decosoftware.com",
