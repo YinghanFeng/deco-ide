@@ -4,7 +4,7 @@
   "version": "0.8.0-beta1",
   "author": "Deco Software <info@decosoftware.com>",
   "dependencies": {
-    "babel-core": "^5.8.22",
+    "babel-core": "^6.10.4",
     "babel-loader": "^5.3.2",
     "babel-polyfill": "^6.5.0",
     "body-parser": "^1.13.3",
@@ -12,7 +12,7 @@
     "css-loader": "^0.9.1",
     "esprima": "^2.7.2",
     "fast-memoize": "^2.0.2",
-    "file-loader": "^0.8.5",
+    "file-loader": "^0.10.1",
     "file-tree-client": "0.0.8",
     "file-tree-client-transport-electron": "0.0.1",
     "file-tree-common": "0.0.8",
@@ -55,7 +55,7 @@
     "url-loader": "^0.5.7",
     "uuid": "^2.0.1",
     "webpack": "^1.12.2",
-    "webpack-dev-server": "^1.11.0",
+    "webpack-dev-server": "^4.0.0",
     "yops": "0.1.0"
   },
   "homepage": "decosoftware.com",
