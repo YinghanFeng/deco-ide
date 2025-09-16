@@ -20,7 +20,7 @@
     "gulp-compass": "^2.0.3",
     "gulp-load-plugins": "^0.8.1",
     "gulp-rename": "^1.2.0",
-    "gulp-size": "^1.2.1",
+    "gulp-size": "^2.1.0",
     "gulp-util": "^3.0.4",
     "json-loader": "^0.5.4",
     "lodash": "^4.0.0",
